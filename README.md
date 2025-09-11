@@ -1,2 +1,5 @@
 # CSC311-Introduction-to-Machine-Learning
-Include course Lab Project and so on 
+Include Tutorial course Labs and Future Course Project
+
+Week1 KNN
+Week2 Decision Tree
