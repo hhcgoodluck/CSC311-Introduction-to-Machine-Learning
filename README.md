@@ -4,3 +4,5 @@ Include Tutorial course Labs and Future Course Project
 Week1 KNN
 
 Week2 Decision Tree
+
+Week3 Linear Regression
