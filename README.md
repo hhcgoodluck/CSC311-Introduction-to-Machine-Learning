@@ -6,3 +6,5 @@ Week1 KNN
 Week2 Decision Tree
 
 Week3 Linear Regression
+
+Week4 Logistic Regression
