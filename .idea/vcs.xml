@@ -2,6 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CSC311-机器学习导论-机器学习库C语言实现/videos" vcs="Git" />
   </component>
 </project>
